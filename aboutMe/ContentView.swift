@@ -28,7 +28,7 @@ struct ContentView: View {
                 
                 Button("Learn more about me") {
                     presentAlert = true
-                    
+                       
                 }
                 .font(.title)
                 .buttonStyle(.borderedProminent)
