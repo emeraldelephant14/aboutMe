@@ -10,6 +10,7 @@ import SwiftUI
 struct ContentView: View {
     @State private var presentAlert = false
     var body: some View {
+        //practicing github
         ZStack {
             Color(.systemGreen)
                 .ignoresSafeArea()
